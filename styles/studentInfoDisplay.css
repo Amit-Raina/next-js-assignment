@@ -1,0 +1,13 @@
+.tableWrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 700px;
+  width: 100%;
+  padding: 24px;
+  padding-bottom: 8px;
+  background-color: #8080805e;
+}
+
+.addNewButton {
+  margin-bottom: 16px;
+}

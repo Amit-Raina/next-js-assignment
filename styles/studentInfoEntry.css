@@ -1,0 +1,27 @@
+.formWrapper {
+  max-width: 250px;
+  padding: 32px;
+  background-color: #8080805e;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  margin-top: 8px;
+  padding: 6px;
+}
+
+.addButton {
+  border: 0;
+  padding: 4px 16px;
+  width: fit-content;
+  align-self: flex-end;
+  background-color: white;
+  box-shadow: 0 1px 2px 1px black;
+}
+
+.addButton:hover {
+  cursor: pointer;
+}
